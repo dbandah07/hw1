@@ -45,8 +45,6 @@ int main(int argc, char* argv[])
   // cout << "DEBUG: head->value" << head->value << endl;
   split(head, t_odds, t_evens);
 
-
-
   // cout << endl;
   // cout << "TESTING: t_evens in split()" << endl;
 
