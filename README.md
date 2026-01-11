@@ -12,3 +12,6 @@ The assignment emphasizes **modular program design, pointer-based data structure
 - Dynamic memory allocation and pointer management
 - Unit tests to validate the correctness of implementations
 - Grading scripts to automate testing and verification
+
+## Notes
+Completed during Fall 2025. 
