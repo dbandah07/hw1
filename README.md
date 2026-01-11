@@ -1,4 +1,4 @@
-# CSCI 104 – HW 1: Linked Lists & Recursion
+# HW 1: Linked Lists & Recursion
 
 ## Overview
 This program is the first assignment for the course **Data Structures & Object-Oriented Design** and introduces foundational concepts in C++ programming, string manipulation, and basic data structure implementation.  
